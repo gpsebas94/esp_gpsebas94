@@ -13,29 +13,6 @@ Mi enfoque combina programación, análisis estadístico y visualización de dat
 
 ---
 
-## 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| **Modelos de Riesgo Crediticio** | Desarrollo de scoring financiero para clientes particulares y empresariales | `Python`, `Scikit-learn`, `Spark`, `Parquet` |
-| **Modelos de Fuga y Churn Telco** | Predicción de cancelaciones en clientes móviles para optimizar retención | `Python`, `XGBoost`, `EDA`, `Pandas` |
-| **Minería de Texto en Redes Sociales** | Análisis de sentimiento y categorización de menciones sobre experiencia de usuario | `Python`, `spaCy`, `NLTK`, `Wordcloud` |
-| **Proyección de ROI en Campañas CRM** | Análisis de retorno de inversión y optimización de campañas dirigidas | `R`, `ggplot2`, `dplyr`, `Power BI` |
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Lenguajes**: Python, R, SQL
-- **Modelado Analítico**: Clasificación, regresión, clustering, churn, ROI, series temporales
-- **Procesamiento de Texto**: NLP, análisis de sentimiento, minería de texto
-- **Big Data**: Apache Spark, S3, Parquet
-- **Visualización**: Matplotlib, Seaborn, ggplot2, Power BI, Tableau
-- **Bases de Datos**: PostgreSQL, MySQL
-- **Otros**: Git, GitHub, análisis pedagógico, metodologías UX
-
----
-
 ## 🎓 Educación
 
 - **Magíster en Ingeniería y Analítica de Datos**  
@@ -46,7 +23,7 @@ Mi enfoque combina programación, análisis estadístico y visualización de dat
 
 ---
 
-## 💼 Experiencia Relevante
+## 💼 Experiencia 
 
 **AIS – Aplicaciones de Inteligencia Artificial**  
 _Data Scientist_ | Mar 2023 – Actualidad  
@@ -61,6 +38,30 @@ _Analista de Datos_ | Dic 2020 – Feb 2022
 Lanzamiento y evaluación de campañas CRM. Proyección de inversión, segmentación de clientes y análisis de impacto en estrategias comerciales.
 
 ---
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| **Modelos de Riesgo Crediticio** | Desarrollo de scoring financiero para clientes particulares y empresariales | `Python`, `Scikit-learn`, `Spark`, `Parquet` |
+| **Modelos de Fuga y Churn Telco** | Predicción de cancelaciones en clientes móviles para optimizar retención | `Python`, `XGBoost`, `EDA`, `Pandas` |
+| **Minería de Texto en Redes Sociales** | Análisis de sentimiento y categorización de menciones sobre experiencia de usuario | `Python`, `spaCy`, `NLTK`, `Wordcloud` |
+| **Proyección de ROI en Campañas CRM** | Análisis de retorno de inversión y optimización de campañas dirigidas | `R`, `ggplot2`, `dplyr`, `Power BI` |
+
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes**: Python, R, SQL
+- **Modelado Analítico**: Clasificación, regresión, clustering, churn, ROI, series temporales
+- **Procesamiento de Texto**: NLP, análisis de sentimiento, minería de texto
+- **Big Data**: Apache Spark, S3, Parquet
+- **Visualización**: Matplotlib, Seaborn, ggplot2, Power BI, Tableau
+- **Bases de Datos**: PostgreSQL, MySQL
+- **Otros**: Git, GitHub, análisis pedagógico, metodologías UX
+
+
 
 ## 📫 ¿Quieres saber más?
 
