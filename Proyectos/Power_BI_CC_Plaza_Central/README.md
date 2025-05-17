@@ -62,10 +62,26 @@ Diseñar un Power BI para facilitar la **toma estratégica de decisiones** en el
 
 ## 📂 Estructura del Repositorio
 ```
-/proyectos/reporte_plaza_central/
-├── README.md                         # Este archivo
+/proyectos/Power_BI_CC_Plaza_Central/
+│ 
+├── README.md
+│                       
 ├── images/                           # Capturas de pantalla del dashboard
+│ ├── 00_Panel_Principal
+│ ├── 01_Resumen
+│ ├── 02_Facturas_Registradas
+│ ├── 03_Avance_Categorias
+│ ├── 04_Top_Bottom_Marcas
+│ ├── 05_Funnel_Campañas
+│ ├── 06_Funnel_Tipo_Comunicacion
+│ ├── 07_Engagement_Categoria
+│ ├── 08_Redenciones
+│ ├── 09_Georeferenciacion
+│ ├── 10_Mix_Marcas
+│ 
 ├── scripts/                          # Script de generación de tablas base y archivo .pbix
+│ ├── Ejecucion.sql
+│ ├── Power_BI.pbix
 ```
 
 ---
