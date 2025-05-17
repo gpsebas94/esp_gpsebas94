@@ -1,10 +1,10 @@
-# Análisis de Comportamiento del Cliente en Centro Comercial Plaza Central
+# 📊 Análisis de Comportamiento del Cliente en Centro Comercial Plaza Central
 
 Este proyecto presenta un dashboard interactivo desarrollado en Power BI para analizar el comportamiento del cliente del Centro Comercial Plaza Central, con base en la integración y análisis de datos provenientes del programa de fidelización "Soy Central", registros de facturación y métricas de campañas de comunicación.
 
 ---
 
-## 🧭 Objetivo del Proyecto
+## 🎯 Objetivo del Proyecto
 Diseñar un Power BI para facilitar la **toma estratégica de decisiones** en el negocio, enfocándose en identificar hallazgos relevantes y evaluar el rendimiento del programa "Soy Central". Las principales preguntas que se buscan resolver son:
 
 - ¿Cuál ha sido el comportamiento de los clientes en términos de compras y redenciones?
@@ -27,36 +27,43 @@ Diseñar un Power BI para facilitar la **toma estratégica de decisiones** en el
 
 ---
 
-## 📊 Estructura del Reporte
-
-[`Imágenes Dashboard`](./images/)
+## 📈 Estructura del Reporte
 
 ### 1. Resumen General
-- Clientes, registros de facturas, grupo etario, género, afinidad, tipo de cliente y comportamiento de compra.
+  Clientes, registros de facturas, grupo etario, género, afinidad, tipo de cliente y comportamiento de compra.
+  ![Resumen](images/01_Resumen.png) 
 
 ### 2. Funnel de Campañas
-- Seguimiento de campañas (envío, apertura, clic, conversión, ventas) con filtros por periodo y canal.
+  Seguimiento de campañas (envío, apertura, clic, conversión, ventas) con filtros por periodo y canal.
+  ![Funnel_Campañas](images/05_Funnel_Campañas.png)
 
 ### 3. Funnel por Tipo de Comunicación
-- Evaluación del desempeño de emails, SMS y otros tipos, con tasas de conversión por canal.
+  Evaluación del desempeño de emails, SMS y otros tipos, con tasas de conversión por canal.
+  ![Funnel_Tipo_Comunicacion](images/06_Funnel_Tipo_Comunicacion.png)
 
 ### 4. Engagement por Categoría
-- Participación y conversión de clientes segmentados por categoría de campaña, filtrable por tiempo y canal.
+  Participación y conversión de clientes segmentados por categoría de campaña, filtrable por tiempo y canal.
+  ![Engagement_Categoria](images/07_Engagement_Categoria.png)
 
 ### 5. Clientes y Facturas Registradas
-- Comparativos por año de número de clientes, tipo de cliente (nuevo/recurrente), facturación total y ticket promedio.
+  Comparativos por año de número de clientes, tipo de cliente (nuevo/recurrente), facturación total y ticket promedio.
+  ![Facturas_Registradas](images/02_Facturas_Registradas.png)
 
 ### 6. Avance de Categorías
-- Evolución mensual de categorías comerciales con comparativos interanuales.
+  Evolución mensual de categorías comerciales con comparativos interanuales.
+  ![Avance_Categorias](images/03_Avance_Categorias.png)
 
 ### 7. Top y Bottom Marcas
-- Análisis de marcas más y menos activas, con crecimiento o decrecimiento en ventas.
+  Análisis de marcas más y menos activas, con crecimiento o decrecimiento en ventas.
+  ![Top_Bottom_Marcas](images/04_Top_Bottom_Marcas.png)
 
 ### 8. Redenciones y Central Coins
-- Seguimiento al uso de premios, tipo de redención (catálogo, beneficio) y dinámica de uso de monedas (CentralCoins).
+  Seguimiento al uso de premios, tipo de redención (catálogo, beneficio) y dinámica de uso de monedas (CentralCoins).
+  ![Redenciones](images/08_Redenciones.png)
 
 ### 9. Georreferenciación
-- Mapa de calor por localidad y segmentación por ubicación geográfica.
+  Mapa de calor por localidad y segmentación por ubicación geográfica.
+  ![Georeferenciacion](images/09_Georeferenciacion.png)
 
 ---
 
