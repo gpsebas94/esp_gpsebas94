@@ -29,6 +29,8 @@ Diseñar un Power BI para facilitar la **toma estratégica de decisiones** en el
 
 ## 📊 Estructura del Reporte
 
+[`Imágenes Dashboard`](./Images/)
+
 ### 1. Resumen General
 - Clientes, registros de facturas, grupo etario, género, afinidad, tipo de cliente y comportamiento de compra.
 
