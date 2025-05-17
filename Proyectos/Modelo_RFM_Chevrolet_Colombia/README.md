@@ -63,7 +63,7 @@ El análisis RFM es ampliamente usado en marketing y CRM para personalizar campa
 
 ### 1. Mapa de Calor RFM  
   Segmentación en clientes **TOP**, **MID** y **LOW** en función de sus compras y frecuencia.
-  ![Mapa_RFM](images/01_RFM_Mapa_de_Calor.png)  
+  ![RFM_Mapa](images/01_RFM_Mapa_de_Calor.png)  
   
 ---
 
