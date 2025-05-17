@@ -4,7 +4,7 @@ Este proyecto fue desarrollado para **Chevrolet Colombia** con el objetivo de ca
 
 ---
 
-## 🧠 Objetivo del Proyecto
+## 🎯 Objetivo del Proyecto
 
 Analizar el comportamiento de los clientes de Chevrolet con base en su historial de compras y posventa, mediante un modelo de **segmentación RFM**. Se buscó:
 
@@ -62,14 +62,14 @@ El análisis RFM es ampliamente usado en marketing y CRM para personalizar campa
 ## 📌 Resultados Destacados
 
 ### 1. Mapa de Calor RFM  
-  ![Mapa_RFM](images/01_RFM_Mapa_de_Calor.png)  
   Segmentación en clientes **TOP**, **MID** y **LOW** en función de sus compras y frecuencia.
-
+  ![Mapa_RFM](images/01_RFM_Mapa_de_Calor.png)  
+  
 ---
 
 ### 2. Caracterización RFM por zona y modelo de vehículo  
-  ![Concesionarios](images/05_Caracterizacion_RFM_Concesionarios.png)  
   Distribución regional y por modelo según grupos RFM.
+  ![Concesionarios](images/05_Caracterizacion_RFM_Concesionarios.png)  
 
 ---
 
@@ -86,7 +86,7 @@ El análisis RFM es ampliamente usado en marketing y CRM para personalizar campa
 
 ---
 
-## 🧠 Conclusiones Estratégicas
+## 📝 Conclusiones Estratégicas
 
 - El **65%** de los clientes se encuentran en el grupo **LOW**, con baja frecuencia de compra y poco engagement.
 - Los clientes **TOP** (9%) son altamente fieles y presentan mayor apertura a campañas.
