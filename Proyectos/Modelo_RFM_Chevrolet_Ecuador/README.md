@@ -36,7 +36,7 @@ El análisis RFM es ampliamente usado en marketing y CRM para personalizar campa
 ## 🛠 Tecnologías utilizadas
 
 - **SQL Server**: Extracción y transformación de datos transaccionales y demográficos. [`Script sql`](scripts/ConsultaClientes.sql)
-- **R**: Desarrollo de mapas de calor, visualizaciones y validaciones estadísticas. [`Script R`](scripts/MapadeCalorRFM_col.R)
+- **R**: Desarrollo de mapas de calor, visualizaciones y validaciones estadísticas. [`Script R`](scripts/MapadeCalorRFM_ecu.R)
 ---
 
 ## 📁 Estructura del repositorio
@@ -44,7 +44,7 @@ El análisis RFM es ampliamente usado en marketing y CRM para personalizar campa
 /proyectos/Modelo_RFM_Chevrolet_Ecuador/
 │
 ├── scripts/
-│ ├── MapadeCalorRFM_col.R
+│ ├── MapadeCalorRFM_ecu.R
 │ └── ConsultaClientes.sql
 │
 ├── images/
