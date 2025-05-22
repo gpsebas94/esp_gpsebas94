@@ -103,15 +103,15 @@ Sales_Channel_Demand_Modeling/
 ### Descripción de los Notebooks
 | Notebook                             | Descripción                                                                                          |
 |--------------------------------------|------------------------------------------------------------------------------------------------------|
-| `01_general.ipynb`                   | Extracción y limpieza global de datos, análisis exploratorio conjunto, pipeline de preprocesamiento común. |
-| `02_telesales.ipynb`                 | EDA específico, comparativa de modelos, métricas (RMSE, MAE, R²).                                     |
-| `03_digital.ipynb`                   | Análisis de comportamientos online, transformaciones polinómicas, PCA en features digitales.         |
-| `04_direct_sales_force.ipynb`        | Datos de fuerza de ventas directa, tuning de hiperparámetros, validación cruzada.                    |
-| `05_distribuidores_tradicionales.ipynb` | Segmentación por tipo de distribuidor, correlaciones, boxplots, rendimiento de modelos estándar.     |
-| `06_kioskos.ipynb`                   | Variables geográficas y de punto, selección de features relevantes, comparación de Random Forest vs OLS. |
-| `07_own_stores.ipynb`                | Datos de tiendas propias, análisis estacional, modelos de regresión lineal avanzados.                |
-| `08_punto_partner.ipynb`             | Comportamiento de partners, evaluación con SVR y árboles, análisis de errores.                       |
-| `09_retail.ipynb`                    | Visión general de retail, pipeline completo (EDA, PCA, modelado), matriz de comparación de desempeño. |
+| [`01_general.ipynb`](notebooks/01_general.ipynb)                   | Extracción y limpieza global de datos, análisis exploratorio conjunto, pipeline de preprocesamiento común. |
+| [`02_telesales.ipynb`](notebooks/02_telesales.ipynb)                 | EDA específico, comparativa de modelos, métricas (RMSE, MAE, R²).                                     |
+| [`03_digital.ipynb`](notebooks/03_digital.ipynb)                   | Análisis de comportamientos online, transformaciones polinómicas, PCA en features digitales.         |
+| [`04_direct_sales_force.ipynb`](notebooks/04_direct_sales_force.ipynb)        | Datos de fuerza de ventas directa, tuning de hiperparámetros, validación cruzada.                    |
+| [`05_distribuidores_tradicionales.ipynb`](notebooks/05_distribuidores_tradicionales.ipynb) | Segmentación por tipo de distribuidor, correlaciones, boxplots, rendimiento de modelos estándar.     |
+| [`06_kioskos.ipynb`](notebooks/06_kioskos.ipynb)                   | Variables geográficas y de punto, selección de features relevantes, comparación de Random Forest vs OLS. |
+| [`07_own_stores.ipynb`](notebooks/07_own_stores.ipynb)                | Datos de tiendas propias, análisis estacional, modelos de regresión lineal avanzados.                |
+| [`08_punto_partner.ipynb`](notebooks/08_punto_partner.ipynb)             | Comportamiento de partners, evaluación con SVR y árboles, análisis de errores.                       |
+| [`09_retail.ipynb`](notebooks/09_retail.ipynb)                    | Visión general de retail, pipeline completo (EDA, PCA, modelado), matriz de comparación de desempeño. |
 
 ---
 
