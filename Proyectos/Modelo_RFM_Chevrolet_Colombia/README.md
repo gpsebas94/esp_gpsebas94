@@ -31,6 +31,24 @@ Este enfoque permite identificar distintos tipos de clientes según su comportam
 
 El análisis RFM es ampliamente usado en marketing y CRM para personalizar campañas, optimizar recursos y mejorar la rentabilidad de las acciones comerciales.
 
+### 🧪 Metodología aplicada
+
+1. **Cálculo de variables**  
+   - *Recency*: Número de meses desde la última transacción o entrada a posventa.  
+   - *Frequency*: Total de vehículos comprados y visitas a taller por cliente.  
+   - *Monetary*: Suma del valor de todas las compras realizadas (ajustado a precios 2021).
+
+2. **Estandarización**  
+   Se construyeron escalas de percentiles para cada variable, permitiendo comparar a los clientes entre sí según su comportamiento.
+
+3. **Segmentación**  
+   A partir de los puntajes R, F y M, se agruparon los clientes en tres segmentos principales:
+   - **TOP**: Alta frecuencia, actividad reciente y mayor gasto.
+   - **MID**: Nivel intermedio en al menos una de las dimensiones.
+   - **LOW**: Baja frecuencia, inactividad reciente y menor gasto.
+
+Esta metodología permite una toma de decisiones más precisa en marketing, fidelización y reactivación de clientes, al priorizar recursos según el valor real de cada grupo.
+
 ---
 
 ## 🛠 Tecnologías utilizadas
