@@ -88,13 +88,13 @@ El análisis RFM es ampliamente usado en marketing y CRM para personalizar campa
 
 ## 📝 Conclusiones Estratégicas
 
-### 📈 Hallazgos Clave
+### Hallazgos Clave
 
 - El 65% de los clientes pertenece al grupo LOW, con bajo compromiso.
 - El segmento TOP (9%) muestra alta fidelidad y respuesta efectiva a campañas.
 - Hay una correlación positiva entre entradas a posventa y engagement en campañas.
 
-### 🎯 Recomendaciones de Segmentación
+### Recomendaciones de Segmentación
 
 - **TOP**: Implementar programas de fidelización VIP con recompensas por permanencia.
 - **MID**: Aplicar campañas personalizadas y seguimiento post-servicio para fortalecer vínculo.
