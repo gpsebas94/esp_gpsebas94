@@ -1,5 +1,5 @@
-# 📊 Sales Channel Demand Modeling
-En un entorno de ventas multicanal, comprender y predecir la demanda específica de cada canal es fundamental para optimizar inventarios, asignar recursos y diseñar estrategias de marketing efectivas. Este proyecto realizado para **Virgin Mobile Latinoamérica** reúne los análisis de datos históricos y los modelos predictivos aplicados a los diferentes canales de venta —Telesales, Digital, Direct Sales Force, Distribuidores Tradicionales, Kioskos, Own Stores, Punto Partner y Retail— para ofrecer una visión consolidada de su comportamiento. Cada canal de venta recorre desde la extracción y limpieza de datos hasta el entrenamiento, evaluación y comparación de múltiples algoritmos de regresión.
+# 📊 Sales Channel Demand Modeling - Colombia
+En un entorno de ventas multicanal, comprender y predecir la demanda específica de cada canal es fundamental para optimizar inventarios, asignar recursos y diseñar estrategias de marketing efectivas. Este proyecto realizado para **Virgin Mobile Latinoamérica** reúne los análisis de datos históricos y los modelos predictivos aplicados a los diferentes canales de venta —Telesales, Digital, Direct Sales Force, Distribuidores Tradicionales, Kioskos, Own Stores, Punto Partner y Retail— de **Colombia** para ofrecer una visión consolidada de su comportamiento. Cada canal de venta recorre desde la extracción y limpieza de datos hasta el entrenamiento, evaluación y comparación de múltiples algoritmos de regresión.
 
 ---
 
