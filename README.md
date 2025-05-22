@@ -35,7 +35,10 @@ Análisis de comportamiento de usuarios en Colombia, México y Chile. Desarrollo
 
 **Inxait**  
 _Analista de Datos_ | Dic 2020 – Feb 2022  
-Lanzamiento y evaluación de campañas CRM. Proyección de inversión, segmentación de clientes y análisis de impacto en estrategias comerciales.
+Encargado de aplicar técnicas de extracción, procesamiento y agrupación de los datos para el lanzamiento de campañas CRM en el sector Retail y Automotor. Implementación de modelos estadísticos enfocado a mejorar las estrategias de campañas. Manejo de herramientas de Visualización de Datos en entornos de Inteligencia de Negocio.
+- Implementación de análisis RFM para Chevrolet Colombia y Ecuador, integrando datos transaccionales y de posventa para segmentar clientes según su valor. Se diseñaron visualizaciones con R y se ejecutaron complejas transformaciones con SQL Server, mejorando la efectividad de campañas de fidelización.
+- Desarrollo de un dashboard en Power BI para el Centro Comercial Plaza Central, consolidando datos de facturación, redenciones y campañas de comunicación. El reporte permitió visualizar embudos de conversión y engagement por canal, facilitando la toma de decisiones estratégicas.
+- Estandarización de precios históricos, cruce de métricas de campañas y análisis multicanal de clientes, aplicando técnicas de limpieza avanzada, cálculo de percentiles y normalización monetaria ajustada por IPC.
 
 ---
 
