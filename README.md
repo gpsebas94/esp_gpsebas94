@@ -40,7 +40,7 @@ Encargado de aplicar técnicas de extracción, procesamiento y agrupación de da
 - **Dashboard en Power BI para el Centro Comercial Plaza Central:** Consolidación de datos de facturación, redenciones y campañas de comunicación. El informe facilitó el análisis de embudos de conversión y engagement multicanal.
 
 **Hit Communications**  
-_Core Support Engineer CGC_ | Ene 2020 – Ago 2022
+_Core Support Engineer CGC_ | Ene 2020 – Ago 2022  
 Encargado de dar soporte técnico a empresas en el área de internet y telefonía, garantizando la atención oportuna de todos los eventos, incidentes, requerimientos y problemas derivados de la operación de los servicios prestados al cliente.
 
 ---
